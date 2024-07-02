@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674519245752",
+    "project_id": "haseeb-project-3af66",
+    "storage_bucket": "haseeb-project-3af66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674519245752:android:b83bbef36b6843c146654d",
+        "android_client_info": {
+          "package_name": "com.example.hasseb_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfAw_xgsbA6tVte7AbWx2MAaGuwLwzMik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
